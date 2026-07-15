@@ -99,3 +99,15 @@ Benefits include:
 This repository is automatically maintained using **LeetHub v2**. Every accepted submission is synced to GitHub, making it a reliable way to track coding progress and maintain a professional record of DSA practice.
 
 ### If you found this idea helpful, consider giving the repository a ⭐(5 - Star).
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/AdityaPatel0921/LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/AdityaPatel0921/LeetCode/tree/master/0206-reverse-linked-list) |
+<!---LeetCode Topics End-->
