@@ -110,4 +110,16 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/AdityaPatel0921/LeetCode/tree/master/0206-reverse-linked-list) |
+## Array
+|  |
+| ------- |
+| [0457-circular-array-loop](https://github.com/AdityaPatel0921/LeetCode/tree/master/0457-circular-array-loop) |
+## Hash Table
+|  |
+| ------- |
+| [0457-circular-array-loop](https://github.com/AdityaPatel0921/LeetCode/tree/master/0457-circular-array-loop) |
+## Two Pointers
+|  |
+| ------- |
+| [0457-circular-array-loop](https://github.com/AdityaPatel0921/LeetCode/tree/master/0457-circular-array-loop) |
 <!---LeetCode Topics End-->
