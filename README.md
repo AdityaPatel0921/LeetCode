@@ -116,6 +116,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaPatel0921/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0457-circular-array-loop](https://github.com/AdityaPatel0921/LeetCode/tree/master/0457-circular-array-loop) |
 | [0904-fruit-into-baskets](https://github.com/AdityaPatel0921/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,10 +137,12 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaPatel0921/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaPatel0921/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/AdityaPatel0921/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaPatel0921/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## String
 |  |
 | ------- |
