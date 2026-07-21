@@ -113,6 +113,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaPatel0921/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0457-circular-array-loop](https://github.com/AdityaPatel0921/LeetCode/tree/master/0457-circular-array-loop) |
 | [0643-maximum-average-subarray-i](https://github.com/AdityaPatel0921/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -149,4 +150,12 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaPatel0921/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
