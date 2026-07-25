@@ -121,6 +121,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0643-maximum-average-subarray-i](https://github.com/AdityaPatel0921/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/AdityaPatel0921/LeetCode/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/AdityaPatel0921/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/AdityaPatel0921/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AdityaPatel0921/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Hash Table
@@ -130,6 +131,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0457-circular-array-loop](https://github.com/AdityaPatel0921/LeetCode/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaPatel0921/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/AdityaPatel0921/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/AdityaPatel0921/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -152,6 +154,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaPatel0921/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaPatel0921/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AdityaPatel0921/LeetCode/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/AdityaPatel0921/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## String
 |  |
