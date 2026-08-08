@@ -130,6 +130,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaPatel0921/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0387-first-unique-character-in-a-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0457-circular-array-loop](https://github.com/AdityaPatel0921/LeetCode/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaPatel0921/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/AdityaPatel0921/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -163,6 +164,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaPatel0921/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/AdityaPatel0921/LeetCode/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Divide and Conquer
 |  |
@@ -190,4 +192,12 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/AdityaPatel0921/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AdityaPatel0921/LeetCode/tree/master/0739-daily-temperatures) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
