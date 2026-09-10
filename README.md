@@ -114,6 +114,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AdityaPatel0921/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AdityaPatel0921/LeetCode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -132,6 +133,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AdityaPatel0921/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaPatel0921/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0457-circular-array-loop](https://github.com/AdityaPatel0921/LeetCode/tree/master/0457-circular-array-loop) |
