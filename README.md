@@ -229,4 +229,8 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdityaPatel0921/LeetCode/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/AdityaPatel0921/LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
