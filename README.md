@@ -121,6 +121,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0152-maximum-product-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaPatel0921/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaPatel0921/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/AdityaPatel0921/LeetCode/tree/master/0283-move-zeroes) |
 | [0457-circular-array-loop](https://github.com/AdityaPatel0921/LeetCode/tree/master/0457-circular-array-loop) |
 | [0503-next-greater-element-ii](https://github.com/AdityaPatel0921/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaPatel0921/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -147,6 +148,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0011-container-with-most-water](https://github.com/AdityaPatel0921/LeetCode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/AdityaPatel0921/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaPatel0921/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/AdityaPatel0921/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0344-reverse-string) |
 | [0457-circular-array-loop](https://github.com/AdityaPatel0921/LeetCode/tree/master/0457-circular-array-loop) |
 | [0876-middle-of-the-linked-list](https://github.com/AdityaPatel0921/LeetCode/tree/master/0876-middle-of-the-linked-list) |
