@@ -142,6 +142,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0457-circular-array-loop](https://github.com/AdityaPatel0921/LeetCode/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaPatel0921/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/AdityaPatel0921/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AdityaPatel0921/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Two Pointers
@@ -153,6 +154,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0283-move-zeroes](https://github.com/AdityaPatel0921/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0344-reverse-string) |
 | [0457-circular-array-loop](https://github.com/AdityaPatel0921/LeetCode/tree/master/0457-circular-array-loop) |
+| [0567-permutation-in-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/AdityaPatel0921/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -164,6 +166,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaPatel0921/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaPatel0921/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/AdityaPatel0921/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/AdityaPatel0921/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AdityaPatel0921/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -188,6 +191,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0125-valid-palindrome](https://github.com/AdityaPatel0921/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/AdityaPatel0921/LeetCode/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AdityaPatel0921/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
