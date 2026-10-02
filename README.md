@@ -180,6 +180,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaPatel0921/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/AdityaPatel0921/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AdityaPatel0921/LeetCode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/AdityaPatel0921/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AdityaPatel0921/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0344-reverse-string) |
@@ -195,6 +196,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AdityaPatel0921/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AdityaPatel0921/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -209,6 +211,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AdityaPatel0921/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AdityaPatel0921/LeetCode/tree/master/0022-generate-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -242,4 +245,8 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AdityaPatel0921/LeetCode/tree/master/0007-reverse-integer) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AdityaPatel0921/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
