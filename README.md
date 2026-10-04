@@ -158,6 +158,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AdityaPatel0921/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/AdityaPatel0921/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaPatel0921/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AdityaPatel0921/LeetCode/tree/master/0125-valid-palindrome) |
@@ -199,6 +200,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaPatel0921/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/AdityaPatel0921/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdityaPatel0921/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/AdityaPatel0921/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AdityaPatel0921/LeetCode/tree/master/0022-generate-parentheses) |
@@ -223,6 +225,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AdityaPatel0921/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/AdityaPatel0921/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -291,4 +294,8 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | ------- |
 | [0048-rotate-image](https://github.com/AdityaPatel0921/LeetCode/tree/master/0048-rotate-image) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AdityaPatel0921/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AdityaPatel0921/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
