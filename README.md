@@ -145,6 +145,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | ------- |
 | [0001-two-sum](https://github.com/AdityaPatel0921/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaPatel0921/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/AdityaPatel0921/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdityaPatel0921/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/AdityaPatel0921/LeetCode/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -203,6 +204,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0005-longest-palindromic-substring](https://github.com/AdityaPatel0921/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/AdityaPatel0921/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/AdityaPatel0921/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/AdityaPatel0921/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdityaPatel0921/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/AdityaPatel0921/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AdityaPatel0921/LeetCode/tree/master/0022-generate-parentheses) |
@@ -281,6 +283,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AdityaPatel0921/LeetCode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/AdityaPatel0921/LeetCode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/AdityaPatel0921/LeetCode/tree/master/0048-rotate-image) |
 ## Backtracking
 |  |
