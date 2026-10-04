@@ -119,6 +119,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0004-median-of-two-sorted-arrays](https://github.com/AdityaPatel0921/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/AdityaPatel0921/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaPatel0921/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/AdityaPatel0921/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaPatel0921/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -143,6 +144,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0001-two-sum](https://github.com/AdityaPatel0921/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaPatel0921/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdityaPatel0921/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/AdityaPatel0921/LeetCode/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/AdityaPatel0921/LeetCode/tree/master/0457-circular-array-loop) |
@@ -198,6 +200,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdityaPatel0921/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/AdityaPatel0921/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AdityaPatel0921/LeetCode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/AdityaPatel0921/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AdityaPatel0921/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AdityaPatel0921/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0344-reverse-string) |
@@ -276,4 +279,8 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdityaPatel0921/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AdityaPatel0921/LeetCode/tree/master/0022-generate-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/AdityaPatel0921/LeetCode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
