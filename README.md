@@ -126,6 +126,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaPatel0921/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaPatel0921/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/AdityaPatel0921/LeetCode/tree/master/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AdityaPatel0921/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0457-circular-array-loop](https://github.com/AdityaPatel0921/LeetCode/tree/master/0457-circular-array-loop) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AdityaPatel0921/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0503-next-greater-element-ii](https://github.com/AdityaPatel0921/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -303,6 +304,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0012-integer-to-roman](https://github.com/AdityaPatel0921/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/AdityaPatel0921/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/AdityaPatel0921/LeetCode/tree/master/0048-rotate-image) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AdityaPatel0921/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AdityaPatel0921/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Backtracking
 |  |
