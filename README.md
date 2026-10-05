@@ -141,6 +141,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AdityaPatel0921/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AdityaPatel0921/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2059-minimum-operations-to-convert-number](https://github.com/AdityaPatel0921/LeetCode/tree/master/2059-minimum-operations-to-convert-number) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/AdityaPatel0921/LeetCode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AdityaPatel0921/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Hash Table
@@ -207,6 +208,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0724-find-pivot-index](https://github.com/AdityaPatel0921/LeetCode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AdityaPatel0921/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AdityaPatel0921/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/AdityaPatel0921/LeetCode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## String
 |  |
@@ -292,6 +294,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdityaPatel0921/LeetCode/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/AdityaPatel0921/LeetCode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 ## Math
 |  |
 | ------- |
@@ -308,6 +311,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AdityaPatel0921/LeetCode/tree/master/0049-group-anagrams) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/AdityaPatel0921/LeetCode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 ## Matrix
 |  |
 | ------- |
@@ -333,4 +337,8 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Enumeration
+|  |
+| ------- |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/AdityaPatel0921/LeetCode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 <!---LeetCode Topics End-->
