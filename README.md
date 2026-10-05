@@ -145,6 +145,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [2059-minimum-operations-to-convert-number](https://github.com/AdityaPatel0921/LeetCode/tree/master/2059-minimum-operations-to-convert-number) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/AdityaPatel0921/LeetCode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AdityaPatel0921/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AdityaPatel0921/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Hash Table
 |  |
@@ -306,6 +307,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0048-rotate-image](https://github.com/AdityaPatel0921/LeetCode/tree/master/0048-rotate-image) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AdityaPatel0921/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AdityaPatel0921/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AdityaPatel0921/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Backtracking
 |  |
 | ------- |
