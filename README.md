@@ -139,6 +139,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AdityaPatel0921/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AdityaPatel0921/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AdityaPatel0921/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2059-minimum-operations-to-convert-number](https://github.com/AdityaPatel0921/LeetCode/tree/master/2059-minimum-operations-to-convert-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AdityaPatel0921/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Hash Table
@@ -316,4 +317,8 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AdityaPatel0921/LeetCode/tree/master/0029-divide-two-integers) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2059-minimum-operations-to-convert-number](https://github.com/AdityaPatel0921/LeetCode/tree/master/2059-minimum-operations-to-convert-number) |
 <!---LeetCode Topics End-->
