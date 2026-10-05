@@ -127,6 +127,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaPatel0921/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/AdityaPatel0921/LeetCode/tree/master/0283-move-zeroes) |
 | [0457-circular-array-loop](https://github.com/AdityaPatel0921/LeetCode/tree/master/0457-circular-array-loop) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AdityaPatel0921/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0503-next-greater-element-ii](https://github.com/AdityaPatel0921/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaPatel0921/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/AdityaPatel0921/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -302,6 +303,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0012-integer-to-roman](https://github.com/AdityaPatel0921/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/AdityaPatel0921/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/AdityaPatel0921/LeetCode/tree/master/0048-rotate-image) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AdityaPatel0921/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -311,6 +313,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AdityaPatel0921/LeetCode/tree/master/0049-group-anagrams) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AdityaPatel0921/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/AdityaPatel0921/LeetCode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 ## Matrix
 |  |
