@@ -178,6 +178,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0457-circular-array-loop](https://github.com/AdityaPatel0921/LeetCode/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/AdityaPatel0921/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AdityaPatel0921/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Binary Search
 |  |
 | ------- |
@@ -237,6 +238,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AdityaPatel0921/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AdityaPatel0921/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AdityaPatel0921/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3798-largest-even-number](https://github.com/AdityaPatel0921/LeetCode/tree/master/3798-largest-even-number) |
 ## Divide and Conquer
 |  |
@@ -263,6 +265,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0739-daily-temperatures](https://github.com/AdityaPatel0921/LeetCode/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AdityaPatel0921/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AdityaPatel0921/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -270,6 +273,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0022-generate-parentheses](https://github.com/AdityaPatel0921/LeetCode/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AdityaPatel0921/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AdityaPatel0921/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -301,6 +305,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0011-container-with-most-water](https://github.com/AdityaPatel0921/LeetCode/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AdityaPatel0921/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AdityaPatel0921/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/AdityaPatel0921/LeetCode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 ## Math
 |  |
