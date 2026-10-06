@@ -229,6 +229,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0049-group-anagrams](https://github.com/AdityaPatel0921/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AdityaPatel0921/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AdityaPatel0921/LeetCode/tree/master/0125-valid-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/AdityaPatel0921/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -322,6 +323,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdityaPatel0921/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AdityaPatel0921/LeetCode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/AdityaPatel0921/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -344,6 +346,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/AdityaPatel0921/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [2059-minimum-operations-to-convert-number](https://github.com/AdityaPatel0921/LeetCode/tree/master/2059-minimum-operations-to-convert-number) |
 ## Rolling Hash
 |  |
