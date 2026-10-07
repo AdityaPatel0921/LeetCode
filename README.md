@@ -123,6 +123,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0049-group-anagrams](https://github.com/AdityaPatel0921/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AdityaPatel0921/LeetCode/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/AdityaPatel0921/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0152-maximum-product-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaPatel0921/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaPatel0921/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -256,6 +257,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0053-maximum-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AdityaPatel0921/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AdityaPatel0921/LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/AdityaPatel0921/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0152-maximum-product-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -339,6 +341,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AdityaPatel0921/LeetCode/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/AdityaPatel0921/LeetCode/tree/master/0063-unique-paths-ii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AdityaPatel0921/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Manacher
 |  |
