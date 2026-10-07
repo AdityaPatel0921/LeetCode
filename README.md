@@ -122,6 +122,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0048-rotate-image](https://github.com/AdityaPatel0921/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AdityaPatel0921/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AdityaPatel0921/LeetCode/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaPatel0921/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaPatel0921/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -253,6 +254,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0005-longest-palindromic-substring](https://github.com/AdityaPatel0921/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/AdityaPatel0921/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AdityaPatel0921/LeetCode/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -304,6 +306,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdityaPatel0921/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/AdityaPatel0921/LeetCode/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AdityaPatel0921/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AdityaPatel0921/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
