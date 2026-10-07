@@ -255,6 +255,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0022-generate-parentheses](https://github.com/AdityaPatel0921/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AdityaPatel0921/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/AdityaPatel0921/LeetCode/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -318,6 +319,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0012-integer-to-roman](https://github.com/AdityaPatel0921/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/AdityaPatel0921/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/AdityaPatel0921/LeetCode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/AdityaPatel0921/LeetCode/tree/master/0062-unique-paths) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AdityaPatel0921/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AdityaPatel0921/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AdityaPatel0921/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -363,4 +365,8 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 |  |
 | ------- |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/AdityaPatel0921/LeetCode/tree/master/2171-removing-minimum-number-of-magic-beans) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AdityaPatel0921/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
