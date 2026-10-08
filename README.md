@@ -242,6 +242,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [1021-remove-outermost-parentheses](https://github.com/AdityaPatel0921/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AdityaPatel0921/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1927-sum-game](https://github.com/AdityaPatel0921/LeetCode/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AdityaPatel0921/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3798-largest-even-number](https://github.com/AdityaPatel0921/LeetCode/tree/master/3798-largest-even-number) |
 ## Divide and Conquer
@@ -315,6 +316,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0055-jump-game](https://github.com/AdityaPatel0921/LeetCode/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AdityaPatel0921/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1927-sum-game](https://github.com/AdityaPatel0921/LeetCode/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AdityaPatel0921/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/AdityaPatel0921/LeetCode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 ## Math
@@ -327,6 +329,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0062-unique-paths](https://github.com/AdityaPatel0921/LeetCode/tree/master/0062-unique-paths) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AdityaPatel0921/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AdityaPatel0921/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1927-sum-game](https://github.com/AdityaPatel0921/LeetCode/tree/master/1927-sum-game) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AdityaPatel0921/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Backtracking
 |  |
@@ -375,4 +378,8 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AdityaPatel0921/LeetCode/tree/master/0062-unique-paths) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/AdityaPatel0921/LeetCode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
