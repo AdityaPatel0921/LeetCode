@@ -244,6 +244,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AdityaPatel0921/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1927-sum-game](https://github.com/AdityaPatel0921/LeetCode/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AdityaPatel0921/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/AdityaPatel0921/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3798-largest-even-number](https://github.com/AdityaPatel0921/LeetCode/tree/master/3798-largest-even-number) |
 ## Divide and Conquer
 |  |
