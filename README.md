@@ -106,6 +106,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AdityaPatel0921/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/AdityaPatel0921/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/AdityaPatel0921/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AdityaPatel0921/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -159,6 +160,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdityaPatel0921/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AdityaPatel0921/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/AdityaPatel0921/LeetCode/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/AdityaPatel0921/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/AdityaPatel0921/LeetCode/tree/master/0457-circular-array-loop) |
@@ -175,6 +177,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0011-container-with-most-water](https://github.com/AdityaPatel0921/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaPatel0921/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AdityaPatel0921/LeetCode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/AdityaPatel0921/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaPatel0921/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AdityaPatel0921/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AdityaPatel0921/LeetCode/tree/master/0283-move-zeroes) |
@@ -399,4 +402,8 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/AdityaPatel0921/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/AdityaPatel0921/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
