@@ -126,6 +126,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0063-unique-paths-ii](https://github.com/AdityaPatel0921/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0152-maximum-product-subarray](https://github.com/AdityaPatel0921/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaPatel0921/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/AdityaPatel0921/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaPatel0921/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/AdityaPatel0921/LeetCode/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AdityaPatel0921/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -175,6 +176,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaPatel0921/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AdityaPatel0921/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaPatel0921/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/AdityaPatel0921/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AdityaPatel0921/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0344-reverse-string) |
 | [0457-circular-array-loop](https://github.com/AdityaPatel0921/LeetCode/tree/master/0457-circular-array-loop) |
@@ -329,6 +331,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0029-divide-two-integers](https://github.com/AdityaPatel0921/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/AdityaPatel0921/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/AdityaPatel0921/LeetCode/tree/master/0062-unique-paths) |
+| [0189-rotate-array](https://github.com/AdityaPatel0921/LeetCode/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AdityaPatel0921/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AdityaPatel0921/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1927-sum-game](https://github.com/AdityaPatel0921/LeetCode/tree/master/1927-sum-game) |
