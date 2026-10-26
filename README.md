@@ -161,6 +161,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AdityaPatel0921/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/AdityaPatel0921/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/AdityaPatel0921/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/AdityaPatel0921/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/AdityaPatel0921/LeetCode/tree/master/0457-circular-array-loop) |
@@ -236,6 +237,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 | [0049-group-anagrams](https://github.com/AdityaPatel0921/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AdityaPatel0921/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AdityaPatel0921/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/AdityaPatel0921/LeetCode/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/AdityaPatel0921/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaPatel0921/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -349,6 +351,7 @@ This repository is automatically maintained using **LeetHub v2**. Every accepted
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AdityaPatel0921/LeetCode/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/AdityaPatel0921/LeetCode/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AdityaPatel0921/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/AdityaPatel0921/LeetCode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 ## Matrix
